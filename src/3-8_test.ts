@@ -38,6 +38,7 @@ for (const line of lines) {
   })
 }
 
+console.log(users);
 
 for (const user of users) {
   if (user.premiumUser) {
